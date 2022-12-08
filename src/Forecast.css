@@ -1,0 +1,12 @@
+.temperature {
+    font-size: 48px;
+    line-height: 100px;
+}
+.measurements {
+    display: inline-block;
+    position: relative;
+    top: -22px;
+}
+.description::first-letter {
+    text-transform: uppercase;
+}
